@@ -1,2 +1,4 @@
-https://github.com/mechawrench/php-laravel-codespaces-devcontainer
-https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?resume=false
+1. https://github.com/mechawrench/php-laravel-codespaces-devcontainer
+2. https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?resume=false
+3. MariaDb is the version of mysql that is used for codespaces. It has a license structure that allows it to be used with codespaces. But, it works the same as mysql
+https://www.linkedin.com/learning/practice-it-php-with-mysql/using-github-codespaces?resume=false
